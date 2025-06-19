@@ -1,3 +1,3 @@
 <img align="center" src="img/kabezera2025.jpg">
-<p align="right"> <a href="https://github.com/Tknika/Zibersegurtasuna2024-2025/blob/main/README.md" class="image fit"><img src="img/header2025.jpg" alt="" width="30%" height="15%"></a></p>
+<p align="right"> <a href="https://github.com/Tknika/Zibersegurtasuna2024-2025/blob/main/README.md"</a></p>
 # Zibersegurtasuna2024-2025
