@@ -16,7 +16,7 @@ Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://g
     - [3.1 Lanketa teorikoak:](#31-lanketa-teorikoak)
     - [3.2 Pilotuak:](#32-pilotuak)
     - [3.3 Ikastaroak:](#33-ikastaroak)
-    - [3.4 Zentruetako proiektuak:](#34-zentruetako-proiektuak)
+    - [3.4 Zentruetako proiektuak:](#34-zentru-proiektuak)
     - [3.5 Jardunaldiak:](#35-jardunaldiak)
     - [3.6 Txapelketak eta CR Saioak:](#36-txapelketak-eta-cr-saioak)
     - [3.7 Zertifikazioak:](#37-zertifikazioak)
