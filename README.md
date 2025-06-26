@@ -17,6 +17,9 @@ Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://g
     - [3.2 Pilotuak:](#32-pilotuak)
     - [3.3 Ikastaroak:](#33-ikastaroak)
     - [3.4 Zentruetako proiektuak:](#34-zentruetako-proiektuak)
+    - [3.5 Jardunaldiak:]
+    - [3.6 Txapelketak eta CR Saioak:]
+    - [3.7 Zertifikazioak:]
   - [4.Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
   ----------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
@@ -37,18 +40,44 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
 #### 3.1.1. Enisa Vs DCB:
 
-### 3.2 Formakuntzak:
+### 3.2 Pilotuak:
 
-#### 3.2.1. ER/DEF CTF plataforman erabiltzeko ERRONKAK garatzeko ikastaroa
+#### 3.2.1 Pentesting Pilotua
 
-#### 3.2.2. Urruneko sarbideak OT inguruneetan
+#### 3.2.3 Wifi Gotortzea:
 
-#### 3.2.3. OT Ingurune Birtualen Lanketa
+### 3.3 Ikastaroak:
 
-### 3.3 Jardunaldiak:
+#### 3.3.1. ER/DEF CTF plataforman erabiltzeko ERRONKAK garatzeko ikastaroa
 
-#### 3.3.1 OT Ziberintzidente baten simulazioa:
+#### 3.3.2. Urruneko sarbideak OT inguruneetan
 
-#### 3.2.2. Zibersegurtasun Jardunaldia - 2025 Ekainak 24
+#### 3.3.3. OT Ingurune Birtualen Lanketa
+
+### 3.4 Zentru Proiektuak:
+
+#### 3.4.1 ZiberHub:
+
+#### 3.4.2 Laudioalde digitalizazio segurua:
+
+### 3.5 Jardunaldiak:
+
+#### 3.5.1 OT Ziberintzidente baten simulazioa:
+
+#### 3.5.2. Zibersegurtasun Jardunaldia - 2025 Ekainak 24
+
+### 3.6 Txapelketak eta CR Saioak:
+
+#### 3.6.1 CyberLehia
+
+#### 3.6.2 ER/DEF SEIM
+
+#### 3.6.3 ER/DEF saioa irakasleentzat
+
+### 3.7 Zertifikazioak:
+
+#### 3.7.1.CEH
+
+### 4.Harremanak eta Komunikazioa:
 
 
