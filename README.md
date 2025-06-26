@@ -18,7 +18,6 @@ Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://g
     - [3.3 Ikastaroak:](#33-ikastaroak)
     - [3.4 Zentruetako proiektuak:](#34-zentruetako-proiektuak)
   - [4.Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
-<<<<<<< HEAD
   ----------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
 2024-25 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
@@ -30,5 +29,3 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
    - Urko Zuñiga
    - Xabat Zabala
    - Ibai Peña
-=======
->>>>>>> d3067f3b62c55504952d026e6c2be93fe4449a0b
