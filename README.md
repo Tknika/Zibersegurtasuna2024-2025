@@ -29,3 +29,7 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
    - Urko Zuñiga
    - Xabat Zabala
    - Ibai Peña
+
+## 2.2025ko zifrak:<img align="center" src="img/lerroa.png">
+## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
+### 3.1 Proiektuak:
