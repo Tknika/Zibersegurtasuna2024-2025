@@ -13,13 +13,13 @@ Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://g
     - [1.1 Lan Taldea:](#11-lan-taldea)
   - [2.2025ko zifrak:](#22025ko-zifrak)
   - [3.Lan ildoak:](#3lan-ildoak)
-    - [3.1 Lanketa teorikoak:](#31teorikoak)
+    - [3.1 Lanketa teorikoak:](#31-lanketa-teorikoak)
     - [3.2 Pilotuak:](#32-pilotuak)
     - [3.3 Ikastaroak:](#33-ikastaroak)
     - [3.4 Zentruetako proiektuak:](#34-zentruetako-proiektuak)
-    - [3.5 Jardunaldiak:]
-    - [3.6 Txapelketak eta CR Saioak:]
-    - [3.7 Zertifikazioak:]
+    - [3.5 Jardunaldiak:](#35-jardunaldiak)
+    - [3.6 Txapelketak eta CR Saioak:](#36-txapelketak-eta-cr-saioak)
+    - [3.7 Zertifikazioak:](#37-zertifikazioak)
   - [4.Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
   ----------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
