@@ -13,7 +13,7 @@ Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://g
     - [1.1 Lan Taldea:](#11-lan-taldea)
   - [2.2025ko zifrak:](#22025ko-zifrak)
   - [3.Lan ildoak:](#3lan-ildoak)
-    - [3.1 Proiektuak:](#31-proiektuak)
+    - [3.1 Lanketa teorikoak:](#31teorikoak)
     - [3.2 Pilotuak:](#32-pilotuak)
     - [3.3 Ikastaroak:](#33-ikastaroak)
     - [3.4 Zentruetako proiektuak:](#34-zentruetako-proiektuak)
@@ -33,7 +33,7 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 ## 2.2025ko zifrak:<img align="center" src="img/lerroa.png">
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
 
-### 3.1 Proiektuak:
+### 3.1 Lanketa teorikoak:
 
 #### 3.1.1. Enisa Vs DCB:
 
@@ -44,5 +44,11 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 #### 3.2.2. Urruneko sarbideak OT inguruneetan
 
 #### 3.2.3. OT Ingurune Birtualen Lanketa
+
+### 3.3 Jardunaldiak:
+
+#### 3.3.1 OT Ziberintzidente baten simulazioa:
+
+#### 3.2.2. Zibersegurtasun Jardunaldia - 2025 Ekainak 24
 
 
