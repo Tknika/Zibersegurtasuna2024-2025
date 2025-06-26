@@ -32,4 +32,17 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
 ## 2.2025ko zifrak:<img align="center" src="img/lerroa.png">
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
+
 ### 3.1 Proiektuak:
+
+#### 3.1.1. Enisa Vs DCB:
+
+### 3.2 Formakuntzak:
+
+#### 3.2.1. ER/DEF CTF plataforman erabiltzeko ERRONKAK garatzeko ikastaroa
+
+#### 3.2.2. Urruneko sarbideak OT inguruneetan
+
+#### 3.2.3. OT Ingurune Birtualen Lanketa
+
+
