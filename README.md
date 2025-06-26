@@ -54,6 +54,9 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
 #### 3.3.3. OT Ingurune Birtualen Lanketa
 
+Ekaineko lehen hamabostaldian eskeinitako ikastaro honetan 15 irakasle inguru elkartu ziren, OT laborategiak 3D inguruneetan montatzeko dauden aukera desberdinak aztertzeko.
+Gailu industrial fisikoak erabili gabe laborategi birtualak montatzeko dauden teknologia edo inguruneak ikusi ziren. GRFICS proiektua, Factory Io, Codesys...moduko softwareak elkarlotuz, ingurune industrial birtualak sortuz. Bukaeran, gailu fisikoak ingurune hauetara lotzeko dauden aukerak ere landu ziren.
+
 ### 3.4 Zentru Proiektuak:
 
 #### 3.4.1 ZiberHub:
