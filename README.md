@@ -42,7 +42,7 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
 ### 3.2 Pilotuak:
 
-#### 3.2.1 Pentesting Pilotua
+#### 3.2.1 Pentesting Pilotua:
 
 #### 3.2.3 Wifi Gotortzea:
 
