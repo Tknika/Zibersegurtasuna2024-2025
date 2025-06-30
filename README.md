@@ -39,7 +39,9 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 ### 3.1 Lanketa teorikoak:
 
 #### 3.1.1. Enisa Vs DCB:
-
+##### 3.1.1.1 Testuingurua:
+ENISA (European Union Agency for Cybersecurity) Europar Batasuneko zibersegurtasunaren agentzia da; haren helburuak estatu kideen zibersegurtasuna sendotzea, politika publikoak babestea eta arriskuen aurrean aholku teknikoak ematea dira. ENISAk 2022an  ECSF (European Cybersecurity Skills Framework) markoa garatu zuen; marko horrek zibersegurtasunaren arloko lanpostuak, eginkizunak eta beharrezko gaitasunak sailkatu eta estandarizatzen ditu. Haren bidez, enpresek, hezkuntza-erakundeek eta profesionalek hobeto uler ditzakete zein lanbide-profil dauden eta bakoitzak zer trebetasun eskatzen dituen. Euskadiko Lanbide Heziketan bi espezializazio-ikastaro ditugu zibersegurtasunaren inguruan: *Informazioaren Teknologien Inguruneetan Zibersegurtasuneko Espezializazio-Ikastaroa* eta *Eragiketa-Teknologien Inguruneetan Zibersegurtasuneko Espezializazio-Ikastaroa*. 
+Azken urteotan, bi ikastaro horien hazkundea itzela izan da, eta garrantzitsua iruditu zaigu haien dekretuak ECSF delakoarekin sakonean alderatzea, ikusteko zer neurritan eusten dieten gure gaitegiek ENISAk proposatutako profilen ezaugarriei. 
 ### 3.2 Pilotuak:
 
 #### 3.2.1 Pentesting Pilotua:
