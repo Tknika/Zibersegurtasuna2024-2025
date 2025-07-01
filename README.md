@@ -54,7 +54,8 @@ Azken urteotan, bi ikastaro horien hazkundea itzela izan da, eta garrantzitsua i
 
 #### 3.3.1. ER/DEF CTF plataforman erabiltzeko ERRONKAK garatzeko ikastaroa
 
-#### 3.3.2. Urruneko sarbideak OT inguruneetan
+#### 3.3.2. Urruneko sarbideak OT inguruneetan 
+<img align="left" src="img/urruneko.png">
 
 Urruneko sarbideei buruzko kontzeptuak, definizioak eta azalpenak landu dira. Horrek prestakuntzaren alderdi teorikoa lantzeko balio du, besteak beste, honako eduki hauek:
 
@@ -72,6 +73,8 @@ Alderdi praktikoan hainbat jarduera mota planteatuko ziren. Horretarako, fabrika
 2. Fortinet.
 3. eWon.
 4. Phoenix Contact.
+
+Dokumentazio guztia hemen
 
 #### 3.3.3. OT Ingurune Birtualen Lanketa
 
