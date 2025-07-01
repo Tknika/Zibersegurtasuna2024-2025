@@ -79,7 +79,7 @@ Ikastaroan erabilitako [Dokumentazio Gida](docs/Presentación_OT.pdf)
 #### 3.3.3. OT Ingurune Birtualen Lanketa
 <img align="left" src="img/OT_3D.jpg">
 Ekaineko lehen hamabostaldian eskeinitako ikastaro honetan 15 irakasle inguru elkartu ziren, OT laborategiak 3D inguruneetan montatzeko dauden aukera desberdinak aztertzeko.
-Gailu industrial fisikoak erabili gabe laborategi birtualak montatzeko dauden teknologia edo inguruneak ikusi ziren. GRFICS proiektua, Factory Io, Codesys...moduko softwareak elkarlotuz, ingurune industrial birtualak sortuz. Bukaeran, gailu fisikoak ingurune hauetara lotzeko dauden aukerak ere landu ziren.
+Gailu industrial fisikoak erabili gabe laborategi birtualak montatzeko dauden teknologia edo inguruneak ikusi ziren. GRFICS proiektua, Factory Io, Codesys...moduko softwareak elkarlotuz, ingurune industrial birtualak sortuz. Bukaeran, gailu fisikoak ingurune hauetara lotzeko dauden aukerak ere landu ziren. PLC, sentsore, aktuatzaile, HMI/SCADA...teknologiak barnebilduz.
 
 Ikastaroan erabilitako [Dokumentazio Gida](ikastaroak/OT_3D_LabBirtualak)
 
@@ -92,6 +92,9 @@ Ikastaroan erabilitako [Dokumentazio Gida](ikastaroak/OT_3D_LabBirtualak)
 ### 3.5 Jardunaldiak:
 
 #### 3.5.1 OT Ziberintzidente baten simulazioa:
+<img align="left" src="img/kaspersky.jpg">
+ZIURen eskutik, Kaspersky Interactive Protection Simulation (KIPS) tresna ezagutzeko aukera izan zen, OT zibersegurtasunaren simulazioan parte hartzeko aukera emanez. Saio honen helburua datorren ikasturtean ikasleekin egin nahi diren saioak baloratzeko tresna probatzea izan zen.
+
 
 #### 3.5.2. Zibersegurtasun Jardunaldia - 2025 Ekainak 24
 
