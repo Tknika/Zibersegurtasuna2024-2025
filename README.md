@@ -56,6 +56,23 @@ Azken urteotan, bi ikastaro horien hazkundea itzela izan da, eta garrantzitsua i
 
 #### 3.3.2. Urruneko sarbideak OT inguruneetan
 
+Urruneko sarbideei buruzko kontzeptuak, definizioak eta azalpenak landu dira. Horrek prestakuntzaren alderdi teorikoa lantzeko balio du, besteak beste, honako eduki hauek:
+
+1. Beharrak eta arrazoiak.
+2. Aplikazioak agertokien arabera.
+3. Arazoak, konponbideak eta mugak.
+4. Erabilitako teknologiak, softwarea eta hardwarea.
+5. Komunikazioetan segurtasuna bermatzeko neurriak.
+6. Arkitekturak.
+
+Alderdi praktikoan hainbat jarduera mota planteatuko ziren. Horretarako, fabrikatzaile hauen ekipamendua erabili zen:
+
+
+1. Siemens
+2. Fortinet.
+3. eWon.
+4. Phoenix Contact.
+
 #### 3.3.3. OT Ingurune Birtualen Lanketa
 
 Ekaineko lehen hamabostaldian eskeinitako ikastaro honetan 15 irakasle inguru elkartu ziren, OT laborategiak 3D inguruneetan montatzeko dauden aukera desberdinak aztertzeko.
