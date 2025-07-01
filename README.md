@@ -77,7 +77,7 @@ Alderdi praktikoan hainbat jarduera mota planteatuko ziren. Horretarako, fabrika
 Ikastaroan erabilitako [Dokumentazio Gida](docs/Presentación_OT.pdf)
 
 #### 3.3.3. OT Ingurune Birtualen Lanketa
-
+<img align="left" src="img/OT_3D.jpg">
 Ekaineko lehen hamabostaldian eskeinitako ikastaro honetan 15 irakasle inguru elkartu ziren, OT laborategiak 3D inguruneetan montatzeko dauden aukera desberdinak aztertzeko.
 Gailu industrial fisikoak erabili gabe laborategi birtualak montatzeko dauden teknologia edo inguruneak ikusi ziren. GRFICS proiektua, Factory Io, Codesys...moduko softwareak elkarlotuz, ingurune industrial birtualak sortuz. Bukaeran, gailu fisikoak ingurune hauetara lotzeko dauden aukerak ere landu ziren.
 
