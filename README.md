@@ -106,6 +106,9 @@ ZIURen eskutik, Kaspersky Interactive Protection Simulation (KIPS) tresna ezagut
 #### 3.6.2 ER/DEF SEIM
 
 #### 3.6.3 ER/DEF saioa irakasleentzat
+<img align="center" src="img/ERDEF_irakasleak.jpg">
+
+Cyberlehia 2025eko finalean erabilitako plataforma Zibersegurtasun espezialitateko irakasleei frogatzeko aukera eman zitzaien Ekainak 24an burutu zen saioan. Bertan, jolas modura planteaturiko gaitasun desberdinetan trebatzeko aukera eman zitzaien parte hartu zuten irakasleei.
 
 ### 3.7 Zertifikazioak:
 
