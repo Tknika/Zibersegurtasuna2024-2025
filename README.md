@@ -103,14 +103,14 @@ Beste urte batez, Zibersegurtasun espezialitatea igortzen den ikastetxeetako ira
 
 Bertan landu zen PROGRAMA honakoa izan zen:
 
-09:00 – 09:15: Ongietorri eta aurkezpenak
-09:15 – 09:30: Tknikako zibersegurtasun alorraren edukien errepasoa. LH-ko beste eduki interesgarriak.
-09:30 – 10:00: CyberLehia planteamendua. OT Inzidente kasuaren azalpena.
-10:00 – 10:30: ZiberHub zentru proiektuaren azalpena
-10:30 – 11:00: Laudioalde proiektu saridunaren aurkezpena
-11:00 – 11:30: Aseden tartea
-11:30 – 12:30: TryHackMe plataforma. Esperientziak partekatu
-12:30 – 13:30: Moduloka/Ikasgaika biltzea, esperientziak, zailtasunak eta zalantzak partekatzeko
+  - 09:00 – 09:15: Ongietorri eta aurkezpenak
+  - 09:15 – 09:30: Tknikako zibersegurtasun alorraren edukien errepasoa. LH-ko beste eduki interesgarriak.
+  - 09:30 – 10:00: CyberLehia planteamendua. OT Inzidente kasuaren azalpena.
+  - 10:00 – 10:30: ZiberHub zentru proiektuaren azalpena
+  - 10:30 – 11:00: Laudioalde proiektu saridunaren aurkezpena
+  - 11:00 – 11:30: Aseden tartea
+  - 11:30 – 12:30: TryHackMe plataforma. Esperientziak partekatu
+  - 12:30 – 13:30: Moduloka/Ikasgaika biltzea, esperientziak, zailtasunak eta zalantzak partekatzeko
 
 ### 3.6 Txapelketak eta CR Saioak:
 
