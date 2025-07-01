@@ -92,7 +92,8 @@ Ikastaroan erabilitako [Dokumentazio Gida](ikastaroak/OT_3D_LabBirtualak)
 ### 3.5 Jardunaldiak:
 
 #### 3.5.1 OT Ziberintzidente baten simulazioa:
-<img align="left" src="img/kaspersky.jpg">
+<img align="center" src="img/kaspersky.jpg">
+
 ZIURen eskutik, Kaspersky Interactive Protection Simulation (KIPS) tresna ezagutzeko aukera izan zen, OT zibersegurtasunaren simulazioan parte hartzeko aukera emanez. Saio honen helburua datorren ikasturtean ikasleekin egin nahi diren saioak baloratzeko tresna probatzea izan zen.
 
 
