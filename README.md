@@ -74,7 +74,7 @@ Alderdi praktikoan hainbat jarduera mota planteatuko ziren. Horretarako, fabrika
 3. eWon.
 4. Phoenix Contact.
 
-Dokumentazio guztia hemen
+Ikastaroan erabilitako [Dokumentazio Gida](docs/Presentación_OT.pdf)
 
 #### 3.3.3. OT Ingurune Birtualen Lanketa
 
