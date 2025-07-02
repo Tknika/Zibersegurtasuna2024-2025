@@ -47,6 +47,13 @@ Azken urteotan, bi ikastaro horien hazkundea itzela izan da, eta garrantzitsua i
 ### 3.2 Pilotuak:
 
 #### 3.2.1 Pentesting Pilotua:
+Hirugarren urtez jarraian, zibersegurtasun espezialitatea ikasi duen ikasle bat bidali digu zibersegurtasun enpresa batean bere DUAL-a egitera, eta helburu bezela ikastetxe baten pentesting-a egitea ezarri diogu:
+
+- Ikaslea: Aitor Santos
+- Ikaslearen zentrua: Maristak Durango
+- Enpresa: JakinCode
+- Pentesting-a jaso duen LH-ko Ikastetxea: [AEGI](https://eagi.eus/)
+
 
 #### 3.2.3 Wifi Gotortzea:
 
