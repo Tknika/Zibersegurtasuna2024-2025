@@ -59,6 +59,40 @@ Hirugarren urtez jarraian, zibersegurtasun espezialitatea ikasi duen ikasle bat 
 ### 3.3 Ikastaroak:
 
 #### 3.3.1. ER/DEF CTF plataforman erabiltzeko ERRONKAK garatzeko ikastaroa
+<img align="left" src="img/ERDEF_ikastaroa.png">
+
+Gure Eraso Defentsarako plataforman erabili ahal izateko erronkak nola sortu azaldu da, azpiegituraren oinarri batzuk azaltzeaz gain eta ariketa bezala erronka baten garapena proposatu zaie.
+
+Ondokoa izan da hiruna ordutako bi saioetan landutako:
+
+
+    1. Saioa
+
+        Sarrera (15 min)
+
+        TKnikak garatuta ER/DEF CTF Plantaformaren azalpenak (90 min)
+
+            Osagai ezberdinak azaldu
+
+            Leihaketa martxan jarri eta probatu
+
+        Partehatzaile bakoitzak bere erronkaren egitura (brach berri batean) sortu eta ingurunea prestatu (20 min)
+
+        Zerbitzuen despliequea erakutsi (10 min)
+
+        Zerbitzu baten despliegea egin (15 min)
+
+    2. Saioa
+
+        Zerbitzuen egituraren azalpena (ordu 1)
+
+        Checkerren egituraren azalpena (ordu 1)
+
+        Zerbitzu baten garapena (ordu 1)
+
+Bakoitzak bere errenkoa lantzeko 24 ordu asinkrono izan ditu, tartean aukeran eskaini diren hiru tutoretza saioetan zalantzak argitua ahal izan dituztelarik.
+
+26 partehartzaile izan dira ikastaroan eta hauetatik 15ek bukatu dute ikastaroa, horietatik 14k gainditu duelarik. Bukatu ez dutenek, datekin arazoak izana aipatu dute batez ere.
 
 #### 3.3.2. Urruneko sarbideak OT inguruneetan 
 <img align="left" src="img/urruneko.png">
@@ -128,7 +162,18 @@ Bertan landu zen PROGRAMA honakoa izan zen:
 
 #### 3.6.1 CyberLehia
 
+(HEMEN OROKORRAK, AURREKO FASEAK ETA OT ERRONKA FALTAKO LIRATEKE)
+
+Finaleko egunan burutu zen azken sailkapenerako puntuagarria zen bigarren proba. Bertan, aurreko urtean bezala, finalistek eraso defentsa ariketa batean parte hartu behar izan zuen, 6 erronkatan beraien defentsa eta erasorako gaitasunak erakutsiz.
+
+Finaleko bi probak burutu ostean, ondokoak izan ziren proba bakoitzean lortutako puntuazioak eta azken sailkapena:
+
+<img align="center" src="img/CL_sailkapena.png">
+
+
 #### 3.6.2 ER/DEF SEIM
+
+Martxoaren 20an, SEIM ikastetxetik etorritako ikasleekin Eraso Defentsa ariketa bat egin genuen TKnikan egokitutako azpiegituran. 
 
 #### 3.6.3 ER/DEF saioa irakasleentzat
 <img align="center" src="img/ERDEF_irakasleak.jpg">
