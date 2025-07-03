@@ -122,6 +122,8 @@ Bertan landu zen PROGRAMA honakoa izan zen:
   - 11:30 – 12:30: TryHackMe plataforma. Esperientziak partekatu
   - 12:30 – 13:30: Moduloka/Ikasgaika biltzea, esperientziak, zailtasunak eta zalantzak partekatzeko
 
+  Jardunaldian erabilitako [Aurkezpena](docs/ZibersegurtasunJardunaldia2025Ekainak24_1.pptx) eta landutako [Edukiak](docs/ZibersegurtasunJardunaldia2025Ekainak24_2.pptx)
+
 ### 3.6 Txapelketak eta CR Saioak:
 
 #### 3.6.1 CyberLehia
