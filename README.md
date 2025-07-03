@@ -162,7 +162,18 @@ Bertan landu zen PROGRAMA honakoa izan zen:
 
 #### 3.6.1 CyberLehia
 
+(HEMEN OROKORRAK, AURREKO FASEAK ETA OT ERRONKA FALTAKO LIRATEKE)
+
+Finaleko egunan burutu zen azken sailkapenerako puntuagarria zen bigarren proba. Bertan, aurreko urtean bezala, finalistek eraso defentsa ariketa batean parte hartu behar izan zuen, 6 erronkatan beraien defentsa eta erasorako gaitasunak erakutsiz.
+
+Finaleko bi probak burutu ostean, ondokoak izan ziren proba bakoitzean lortutako puntuazioak eta azken sailkapena:
+
+<img align="center" src="img/CL_sailkapena.png">
+
+
 #### 3.6.2 ER/DEF SEIM
+
+Martxoaren 20an, SEIM ikastetxetik etorritako ikasleekin Eraso Defentsa ariketa bat egin genuen TKnikan egokitutako azpiegituran. 
 
 #### 3.6.3 ER/DEF saioa irakasleentzat
 <img align="center" src="img/ERDEF_irakasleak.jpg">
