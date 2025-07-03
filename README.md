@@ -95,7 +95,7 @@ Ikastaroan erabilitako [Dokumentazio Gida](ikastaroak/OT_3D_LabBirtualak)
 Txurdinaga LHII, Uni Eibar eta Zubiri Manteo BHI ikastetxeen arteko lankidetza proiektu batetan, Ziberhub izeneko proiektu bat landu da elkarlanean. Proiektu honen helburua, CTF (Capture The Flag) motako plataforma bat hedatzea izan da. Batipat, Zibersegurtasunaren arloa jorratzen den ikastetxeetan erronka propioak hedatu eta behar denerako eskuragarri izateko.
 IsardVDI plataforma erabili da honetarako eta malgutasun haundia eskeintzen du, erronka propioak sortu eta baita ere, gainontzeko ikastetxeetako iarakasleekin berauek partekatzeko.
 
-Proiektuan erabilitako [Dokumentazio Gida](docs/Ziberhub murriztua.pptx)
+Proiektuan erabilitako [Dokumentazio Gida](docs/Ziberhubmurriztua)
 
 #### 3.4.2 Laudioalde digitalizazio segurua:
 
