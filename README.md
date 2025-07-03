@@ -38,15 +38,21 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
 
 ### 3.1 Lanketa teorikoak:
 
-#### 3.1.1. Enisa Vs DCB:
-##### 3.1.1.1 Testuingurua:
-ENISA (European Union Agency for Cybersecurity) Europar Batasuneko zibersegurtasunaren agentzia da; haren helburuak estatu kideen zibersegurtasuna sendotzea, politika publikoak babestea eta arriskuen aurrean aholku teknikoak ematea dira. ENISAk 2022an  ECSF (European Cybersecurity Skills Framework) markoa garatu zuen; marko horrek zibersegurtasunaren arloko lanpostuak, eginkizunak eta beharrezko gaitasunak sailkatu eta estandarizatzen ditu. Haren bidez, enpresek, hezkuntza-erakundeek eta profesionalek hobeto uler ditzakete zein lanbide-profil dauden eta bakoitzak zer trebetasun eskatzen dituen. Euskadiko Lanbide Heziketan bi espezializazio-ikastaro ditugu zibersegurtasunaren inguruan: *Informazioaren Teknologien Inguruneetan Zibersegurtasuneko Espezializazio-Ikastaroa* eta *Eragiketa-Teknologien Inguruneetan Zibersegurtasuneko Espezializazio-Ikastaroa*. 
+#### 3.1.1. Enisa vs DCB:
+[ENISA](https://www.enisa.europa.eu/) (European Union Agency for Cybersecurity) Europar Batasuneko zibersegurtasunaren agentzia da; haren helburuak estatu kideen zibersegurtasuna sendotzea, politika publikoak babestea eta arriskuen aurrean aholku teknikoak ematea dira. ENISAk 2022an  [ECSF](https://www.enisa.europa.eu/publications/european-cybersecurity-skills-framework-role-profiles) (European Cybersecurity Skills Framework) markoa garatu zuen; marko horrek zibersegurtasunaren arloko lanpostuak, eginkizunak eta beharrezko gaitasunak sailkatu eta estandarizatzen ditu. Haren bidez, enpresek, hezkuntza-erakundeek eta profesionalek hobeto uler ditzakete zein lanbide-profil dauden eta bakoitzak zer trebetasun eskatzen dituen. Euskadiko Lanbide Heziketan bi espezializazio-ikastaro ditugu zibersegurtasunaren inguruan: [*Informazioaren Teknologien Inguruneetan Zibersegurtasuneko Espezializazio-Ikastaroa*](https://ivac-eei.eus/eu/lanbide-arloak/informatika-eta-komunikazioak-ifc/espezializazioak/informazioaren-teknologien-inguruneetan-zibersegurtasuneko-espezializazio-ikastaroa.html) eta [*Eragiketa-Teknologien Inguruneetan Zibersegurtasuneko Espezializazio-Ikastaroa*](https://ivac-eei.eus/eu/lanbide-arloak/elektrizitatea-eta-elektronika-ele/espezializazioak/eragiketa-teknologien-inguruneetan-zibersegurtasuneko-espezializazio-ikastaroa.html) 
 
-Azken urteotan, bi ikastaro horien hazkundea itzela izan da, eta garrantzitsua iruditu zaigu haien dekretuak ECSF delakoarekin sakonean alderatzea, ikusteko zer neurritan eusten dieten gure gaitegiek ENISAk proposatutako profilen nondik norakoei. Behin ikerketa hori gauzatuta, txosten bat egin dugu ateratako ondorio guztiak jasotzeko. 
-##### 3.1.1.2 Ikerketa sakona:
+Azken urteotan, bi ikastaro horien hazkundea itzela izan da, eta garrantzitsua iruditu zaigu haien dekretuak ECSF delakoarekin sakonean alderatzea, ikusteko zer neurritan eusten dieten gure gaitegiek ENISAk proposatutako profilen nondik norakoei. Behin ikerketa hori gauzatuta, [txosten bat](lanketa_teorikoa/enisa_txostena) egin dugu ateratako ondorio guztiak jasotzeko. 
+
 ### 3.2 Pilotuak:
 
 #### 3.2.1 Pentesting Pilotua:
+Hirugarren urtez jarraian, zibersegurtasun espezialitatea ikasi duen ikasle bat bidali digu zibersegurtasun enpresa batean bere DUAL-a egitera, eta helburu bezela ikastetxe baten pentesting-a egitea ezarri diogu:
+
+- Ikaslea: Aitor Santos
+- Ikaslearen zentrua: Maristak Durango
+- Enpresa: JakinCode
+- Pentesting-a jaso duen LH-ko Ikastetxea: [AEGI](https://eagi.eus/)
+
 
 #### 3.2.3 Wifi Gotortzea:
 
