@@ -86,6 +86,8 @@ Ikastaroan erabilitako [Dokumentazio Gida](ikastaroak/OT_3D_LabBirtualak)
 ### 3.4 Zentru Proiektuak:
 
 #### 3.4.1 ZiberHub:
+Txurdinaga LHII, Uni Eibar eta Zubiri Manteo BHI ikastetxeen arteko lankidetza proiektu batetan, Ziberhub izeneko proiektu bat landu da elkarlanean. Proiektu honen helburua, CTF (Capture The Flag) motako plataforma bat hedatzea izan da. Batipat, Zibersegurtasunaren arloa jorratzen den ikastetxeetan erronka propioak hedatu eta behar denerako eskuragarri izateko.
+IsardVDI plataforma erabili da honetarako eta malgutasun haundia eskeintzen du, erronka propioak sortu eta baita ere, gainontzeko ikastetxeetako iarakasleekin berauek partekatzeko.
 
 #### 3.4.2 Laudioalde digitalizazio segurua:
 
@@ -108,7 +110,7 @@ Bertan landu zen PROGRAMA honakoa izan zen:
   - 09:30 – 10:00: CyberLehia planteamendua. OT Inzidente kasuaren azalpena.
   - 10:00 – 10:30: ZiberHub zentru proiektuaren azalpena
   - 10:30 – 11:00: Laudioalde proiektu saridunaren aurkezpena
-  - 11:00 – 11:30: Aseden tartea
+  - 11:00 – 11:30: Atseden tartea
   - 11:30 – 12:30: TryHackMe plataforma. Esperientziak partekatu
   - 12:30 – 13:30: Moduloka/Ikasgaika biltzea, esperientziak, zailtasunak eta zalantzak partekatzeko
 
