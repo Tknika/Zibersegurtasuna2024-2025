@@ -4,7 +4,7 @@
   # Zibersegurtasuna2024-2025
 **Tknikako Zibersegurtasun lan taldearen 2024 - 2025 kurtsoko memoria** 
 
-Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://github.com/Tknika/Zibersegurtasuna2023-2024) aurkitu dezakezu.
+Aurreko ikasturteetako memoriak ikusi nahi izanez gero (2022-2023) [hemen](https://github.com/Tknika/Zibersegurtasuna2022-2023) eta (2023-2024) [hemen](https://github.com/Tknika/Zibersegurtasuna2023-2024) aurkitu ditzakezu.
 ## Aurkibidea<img align="center" src="img/lerroa.png">
 
 - [Zibersegurtasuna 2024-2025](#zibersegurtasuna-2024-2025)
@@ -19,9 +19,7 @@ Aurreko ikasturteko memoria ikusi nahi izanez gero (2023-2024) [hemen](https://g
     - [3.4 Zentruetako proiektuak:](#34-zentru-proiektuak)
     - [3.5 Jardunaldiak:](#35-jardunaldiak)
     - [3.6 Txapelketak eta CR Saioak:](#36-txapelketak-eta-cr-saioak)
-    - [3.7 Zertifikazioak:](#37-zertifikazioak)
-  - [4.Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
-  ----------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
 2024-25 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
 ### 1.1 Lan Taldea:
@@ -34,6 +32,8 @@ Kurtso honetan lan taldea osatu duten partaideak izan dira:
    - Ibai Peña
 
 ## 2.2025ko zifrak:<img align="center" src="img/lerroa.png">
+<img align="center" src="img/zifrak.png">
+
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
 
 ### 3.1 Lanketa teorikoak:
@@ -55,6 +55,8 @@ Hirugarren urtez jarraian, zibersegurtasun espezialitatea ikasi duen ikasle bat 
 
 
 #### 3.2.3 Wifi Gotortzea:
+
+Proiektu honek ikastetxeentzako WiFi eredu segurua proposatzen du, konektibitatea, ikasleen eta irakasleen babesa arriskuan jarri gabe. Ikastetxe-sareetako ahultasun komunak aztertzen dira, eta zifratze sendoan oinarritutako babes neurriak. Sarearen segmentazioa, autentifikazio aurreratua eta edukiak iragazteko tresnak erakutsiz.
 
 ### 3.3 Ikastaroak:
 
@@ -114,7 +116,7 @@ Alderdi praktikoan hainbat jarduera mota planteatuko ziren. Horretarako, fabrika
 3. eWon.
 4. Phoenix Contact.
 
-Ikastaroan erabilitako [Dokumentazio Gida](docs/Presentación_OT.pdf)
+Ikastaroan erabilitako [Dokumentazio Gida](docs/Presentación_OT.pdf) eta materiala [Ikastaroko materiala](materiala/Guiones%20prácticas/)
 
 #### 3.3.3. OT Ingurune Birtualen Lanketa
 <img align="left" src="img/OT_3D.jpg">
@@ -132,6 +134,7 @@ IsardVDI plataforma erabili da honetarako eta malgutasun haundia eskeintzen du, 
 Proiektuan erabilitako [Dokumentazio Gida](docs/Ziberhubmurriztua.pptx)
 
 #### 3.4.2 Laudioalde digitalizazio segurua:
+Laudioalde LH-rekin elkarlanean 4.0 tailler bat moldatzeko eginiko zentru proiektuaren informazioa aurkituko duzue [esteka](docs/Tknika_4.0Tailerra_aurkezpena.pptx) honetan. Aurkezpen honetan, proiektu hau garatzeko jarraitutako urratsen informazioa aurkituko duzue.
 
 ### 3.5 Jardunaldiak:
 
@@ -161,10 +164,42 @@ Bertan landu zen PROGRAMA honakoa izan zen:
 ### 3.6 Txapelketak eta CR Saioak:
 
 #### 3.6.1 CyberLehia
+<img align="center" src="img/FINALISTAK2025.jpg">
+Eusko Jaurlaritzako Hezkuntza Saileko Lanbide Heziketako Sailburuordetzak antolatutako zibersegurtasun lehiaketa da CyberLehia. 2025ekoa bigarren edizioa izan da, eta Euskadiko Lanbide Heziketako zentru integratuei dago zuzendua.
 
-(HEMEN OROKORRAK, AURREKO FASEAK ETA OT ERRONKA FALTAKO LIRATEKE)
+Txapelketaren fase ezberdinetan 463 ikaslek parte-hartu dute, 30 zentru ezberdinen ordezkari gisa. Aurreko urtearekin konparatuz, (280, 25) hazkunde handia izan du parte-hartzeak.
+Txapelketa taldekakoa izan da, talde bakoitzak gehienez 3 partaide izan zitzakeen.
 
-Finaleko egunan burutu zen azken sailkapenerako puntuagarria zen bigarren proba. Bertan, aurreko urtean bezala, finalistek eraso defentsa ariketa batean parte hartu behar izan zuen, 6 erronkatan beraien defentsa eta erasorako gaitasunak erakutsiz.
+Aurtengo txapelketaren helburua zibersegurtasunaz dakitenek partehartzeaz gain, jakinmiña zutenek ere partehartzea izan da. Horretarako proposatutako erronka kopurua asko handitu da, eta erronka horietako portzentai handi bat zailtasun maila oso errezekoak izan dira, jakinmina zutenek ere gainditzeko modukoak. Eta partehartze datuek erakusten digu amuak funtzionatu duela.
+
+**Txapelketaren webgunea:**
+https://cyberlehia.fpeuskadi.eus/
+
+**Aurreko urteko edizioaren laburpen bideoa:**
+https://www.youtube.com/watch?v=2AtvKaG9ahY
+
+**2025 edizioko eduki gehiago:**
+https://cyberlehia.fpeuskadi.eus/aurreko-edizioak/2025-edizioa/
+
+**Txapelketako faseak:**
+
+**1- Fasea:** Otsailan egin zen, online modalidadean, taldeei gai eta eduki ezberdineko 60 erronka baino gehiago proposatu zitzaizkien eta bost eguneko epean ahalik eta erronka gehien ebaztea zen helburua. 
+		
+33 talde onenek hurrengo faserako txartela lortu zuten.
+
+**2- Fasea:** Martxoan burutu zen, online modalidadean. Aurreko fasean bezela, gai eta eduki ezberdineko 49 erronka proposatu zitzaizkien eta astebeteko epean ahalik eta erronka gehien ebaztea zen helburua. 
+
+5 talde onenek finalera sailkatzea lortu zuten.
+
+**Azken Fasea eta Finala:**
+
+Aurten azken fasea bi probatan banatzea erabaki da:
+
+Ariketa teorikoa: Enpresa batean gertaturiko zibersegurtasun arazo bati buruzko ariketa teoriko bat egin behar dute. Ariketa hau berria da, eta txapelketan txertatu dugu, zibersegurtasun enpresetatik jasotako gomendioei jarraituz. Izan ere, beraien esanetan ikasleek hobetzeko duten esparru nagusia horrelako txostenak egitean datza. 
+
+**Ariketa praktikoa-Finala:** Aurreko urtean bezela, Eraso/Defentsa motako CTF batean parte hartu behar izan dute, Apirilak 3an jokatuko den Zorrozaurreko La Terminal aretoan, presentzialki.
+
+Azken faseko bigarren proba honetan, aurreko urtean bezala, finalistek eraso defentsa ariketa batean parte hartu behar izan zuen, 6 erronkatan beraien defentsa eta erasorako gaitasunak erakutsiz.
 
 Finaleko bi probak burutu ostean, ondokoak izan ziren proba bakoitzean lortutako puntuazioak eta azken sailkapena:
 
@@ -176,14 +211,8 @@ Finaleko bi probak burutu ostean, ondokoak izan ziren proba bakoitzean lortutako
 Martxoaren 20an, SEIM ikastetxetik etorritako ikasleekin Eraso Defentsa ariketa bat egin genuen TKnikan egokitutako azpiegituran. 
 
 #### 3.6.3 ER/DEF saioa irakasleentzat
-<img align="center" src="img/ERDEF_irakasleak.jpg">
 
 Cyberlehia 2025eko finalean erabilitako plataforma Zibersegurtasun espezialitateko irakasleei frogatzeko aukera eman zitzaien Ekainak 24an burutu zen saioan. Bertan, jolas modura planteaturiko gaitasun desberdinetan trebatzeko aukera eman zitzaien parte hartu zuten irakasleei.
 
-### 3.7 Zertifikazioak:
-
-#### 3.7.1.CEH
-
-### 4.Harremanak eta Komunikazioa:
 
 
